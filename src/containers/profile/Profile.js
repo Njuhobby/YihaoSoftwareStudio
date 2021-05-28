@@ -24,7 +24,7 @@ export default function Profile() {
           .replace("http://", "")
           .split("/");
         if (homepagePath.length > 1 && homepagePath[1].length > 0) {
-          profilePath = profilePath + homepagePath[1];
+          profilePath = "/" + profilePath + homepagePath[1];
         }
         console.log(profilePath);
         fetch(profilePath + "/profile.json")
