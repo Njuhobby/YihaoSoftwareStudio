@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/YihaoSoftwareStudio/static/css/main.25b99863.chunk.css",
-    "main.js": "/YihaoSoftwareStudio/static/js/main.2099a9ef.chunk.js",
-    "main.js.map": "/YihaoSoftwareStudio/static/js/main.2099a9ef.chunk.js.map",
-    "runtime-main.js": "/YihaoSoftwareStudio/static/js/runtime-main.803ad1e7.js",
-    "runtime-main.js.map": "/YihaoSoftwareStudio/static/js/runtime-main.803ad1e7.js.map",
+    "main.js": "/YihaoSoftwareStudio/static/js/main.49f15dfb.chunk.js",
+    "main.js.map": "/YihaoSoftwareStudio/static/js/main.49f15dfb.chunk.js.map",
+    "runtime-main.js": "/YihaoSoftwareStudio/static/js/runtime-main.0abccdf0.js",
+    "runtime-main.js.map": "/YihaoSoftwareStudio/static/js/runtime-main.0abccdf0.js.map",
     "static/css/2.f1b50ea8.chunk.css": "/YihaoSoftwareStudio/static/css/2.f1b50ea8.chunk.css",
-    "static/js/2.fd2716f1.chunk.js": "/YihaoSoftwareStudio/static/js/2.fd2716f1.chunk.js",
-    "static/js/2.fd2716f1.chunk.js.map": "/YihaoSoftwareStudio/static/js/2.fd2716f1.chunk.js.map",
+    "static/js/2.5060a0d6.chunk.js": "/YihaoSoftwareStudio/static/js/2.5060a0d6.chunk.js",
+    "static/js/2.5060a0d6.chunk.js.map": "/YihaoSoftwareStudio/static/js/2.5060a0d6.chunk.js.map",
     "static/css/3.d29f9f24.chunk.css": "/YihaoSoftwareStudio/static/css/3.d29f9f24.chunk.css",
-    "static/js/3.61d27c6e.chunk.js": "/YihaoSoftwareStudio/static/js/3.61d27c6e.chunk.js",
-    "static/js/3.61d27c6e.chunk.js.map": "/YihaoSoftwareStudio/static/js/3.61d27c6e.chunk.js.map",
+    "static/js/3.264c62fc.chunk.js": "/YihaoSoftwareStudio/static/js/3.264c62fc.chunk.js",
+    "static/js/3.264c62fc.chunk.js.map": "/YihaoSoftwareStudio/static/js/3.264c62fc.chunk.js.map",
     "index.html": "/YihaoSoftwareStudio/index.html",
-    "precache-manifest.5c0512e9e5291e2e4f7051967b1f8a58.js": "/YihaoSoftwareStudio/precache-manifest.5c0512e9e5291e2e4f7051967b1f8a58.js",
+    "precache-manifest.90f4d812f330bfe7afac110ba35382b7.js": "/YihaoSoftwareStudio/precache-manifest.90f4d812f330bfe7afac110ba35382b7.js",
     "service-worker.js": "/YihaoSoftwareStudio/service-worker.js",
     "static/css/2.f1b50ea8.chunk.css.map": "/YihaoSoftwareStudio/static/css/2.f1b50ea8.chunk.css.map",
     "static/css/3.d29f9f24.chunk.css.map": "/YihaoSoftwareStudio/static/css/3.d29f9f24.chunk.css.map",
     "static/css/main.25b99863.chunk.css.map": "/YihaoSoftwareStudio/static/css/main.25b99863.chunk.css.map",
-    "static/js/2.fd2716f1.chunk.js.LICENSE.txt": "/YihaoSoftwareStudio/static/js/2.fd2716f1.chunk.js.LICENSE.txt",
+    "static/js/2.5060a0d6.chunk.js.LICENSE.txt": "/YihaoSoftwareStudio/static/js/2.5060a0d6.chunk.js.LICENSE.txt",
     "static/media/index.css": "/YihaoSoftwareStudio/static/media/Montserrat-Regular.847627bf.ttf",
     "static/media/brownLogo.png": "/YihaoSoftwareStudio/static/media/brownLogo.0448a0ce.png",
     "static/media/codeInLogo.webp": "/YihaoSoftwareStudio/static/media/codeInLogo.47a7a717.webp",
@@ -32,10 +32,10 @@
     "static/media/TalkCard.scss": "/YihaoSoftwareStudio/static/media/talksCardBack.13780cdd.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.803ad1e7.js",
+    "static/js/runtime-main.0abccdf0.js",
     "static/css/2.f1b50ea8.chunk.css",
-    "static/js/2.fd2716f1.chunk.js",
+    "static/js/2.5060a0d6.chunk.js",
     "static/css/main.25b99863.chunk.css",
-    "static/js/main.2099a9ef.chunk.js"
+    "static/js/main.49f15dfb.chunk.js"
   ]
 }

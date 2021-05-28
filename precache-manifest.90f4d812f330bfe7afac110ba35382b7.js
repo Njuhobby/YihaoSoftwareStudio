@@ -1,39 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a5b98b310e1f5d68b6db7261967c091c",
+    "revision": "ec6cd7725e93ce642199b828a59342a7",
     "url": "/YihaoSoftwareStudio/index.html"
   },
   {
-    "revision": "e801cc8756b8bc1b33db",
+    "revision": "c5bc3a97d5cabcdf8a70",
     "url": "/YihaoSoftwareStudio/static/css/2.f1b50ea8.chunk.css"
   },
   {
-    "revision": "29b90b5da24e6b29cdc3",
+    "revision": "cfca0277417c8c2fd317",
     "url": "/YihaoSoftwareStudio/static/css/3.d29f9f24.chunk.css"
   },
   {
-    "revision": "169383e05911c2be82e1",
+    "revision": "ffc18553901aafdfe4c5",
     "url": "/YihaoSoftwareStudio/static/css/main.25b99863.chunk.css"
   },
   {
-    "revision": "e801cc8756b8bc1b33db",
-    "url": "/YihaoSoftwareStudio/static/js/2.fd2716f1.chunk.js"
+    "revision": "c5bc3a97d5cabcdf8a70",
+    "url": "/YihaoSoftwareStudio/static/js/2.5060a0d6.chunk.js"
   },
   {
     "revision": "6e1d2efc12a1ac972ff1f942df7eb0bd",
-    "url": "/YihaoSoftwareStudio/static/js/2.fd2716f1.chunk.js.LICENSE.txt"
+    "url": "/YihaoSoftwareStudio/static/js/2.5060a0d6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "29b90b5da24e6b29cdc3",
-    "url": "/YihaoSoftwareStudio/static/js/3.61d27c6e.chunk.js"
+    "revision": "cfca0277417c8c2fd317",
+    "url": "/YihaoSoftwareStudio/static/js/3.264c62fc.chunk.js"
   },
   {
-    "revision": "169383e05911c2be82e1",
-    "url": "/YihaoSoftwareStudio/static/js/main.2099a9ef.chunk.js"
+    "revision": "ffc18553901aafdfe4c5",
+    "url": "/YihaoSoftwareStudio/static/js/main.49f15dfb.chunk.js"
   },
   {
-    "revision": "9113fe2e0cb2357a1086",
-    "url": "/YihaoSoftwareStudio/static/js/runtime-main.803ad1e7.js"
+    "revision": "92eb1ac67288eef325d9",
+    "url": "/YihaoSoftwareStudio/static/js/runtime-main.0abccdf0.js"
   },
   {
     "revision": "a3752c4bf72688b3db38d0911cf75f61",
