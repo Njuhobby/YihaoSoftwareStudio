@@ -293,14 +293,13 @@ const achievementSection = {
 // Pricing Section
 const pricingSection = {
   title: emoji("Pricing 💰"),
-  subtitle:
-    "Take a look at our super user-friendly pricing table!",
+  subtitle: "Take a look at our super user-friendly pricing table!",
 
   pricingCards: [
     {
       title: "Personal",
       price: "5000/project",
-      features:[
+      features: [
         "one-to-one consulting",
         "personal portfolio website",
         "design & development"
@@ -309,7 +308,7 @@ const pricingSection = {
     {
       title: "Standard",
       price: "4000/month",
-      features:[
+      features: [
         "company main website",
         "industry ready templates",
         "Google analytics involved"
@@ -318,8 +317,8 @@ const pricingSection = {
 
     {
       title: "Business",
-      price: "7000/month", 
-      features:[
+      price: "7000/month",
+      features: [
         "company ERP system",
         "Highly customized CRM",
         "Tailored for your needs"
