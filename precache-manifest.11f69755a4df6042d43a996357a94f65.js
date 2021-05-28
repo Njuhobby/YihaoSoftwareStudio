@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ec6cd7725e93ce642199b828a59342a7",
+    "revision": "3ba52aa93f3c89e14abcf28519d048de",
     "url": "/YihaoSoftwareStudio/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/YihaoSoftwareStudio/static/css/3.d29f9f24.chunk.css"
   },
   {
-    "revision": "ffc18553901aafdfe4c5",
+    "revision": "b25d40a30736e3937f9f",
     "url": "/YihaoSoftwareStudio/static/css/main.25b99863.chunk.css"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/YihaoSoftwareStudio/static/js/3.264c62fc.chunk.js"
   },
   {
-    "revision": "ffc18553901aafdfe4c5",
-    "url": "/YihaoSoftwareStudio/static/js/main.49f15dfb.chunk.js"
+    "revision": "b25d40a30736e3937f9f",
+    "url": "/YihaoSoftwareStudio/static/js/main.4a1d77a7.chunk.js"
   },
   {
     "revision": "92eb1ac67288eef325d9",
