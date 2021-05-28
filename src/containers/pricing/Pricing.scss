@@ -1,0 +1,38 @@
+@import '../../_globalColor';
+
+.pricing-heading {
+  font-size: 56px;
+  font-weight: 400;
+  line-height: normal;
+  margin: 0px;
+}
+.pricing-subtitle {
+  text-transform: uppercase;
+  margin: 0px;
+  margin-bottom: 50px;
+}
+.subTitle {
+  color: $subTitle;
+}
+
+.pricing-cards-div{
+    display: flex;
+}
+
+/* Media Query */
+@media (max-width: 1380px) {
+  .pricing-heading {
+    font-size: 40px;
+  }
+}
+@media (max-width: 768px) {
+  .pricing-heading {
+    font-size: 30px;
+    text-align: center;
+  }
+  .pricing-subtitle {
+    font-size: 16px;
+    line-height: normal;
+    text-align: center;
+  }
+}
