@@ -117,7 +117,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "Brown University",
-      logo: require("./assets/images/brownLogo.webp"),
+      logo: require("./assets/images/brownuniversityLogo.webp"),
       subHeader: "Master of Science in Computer Science",
       duration: "September 2013 - April 2015",
       desc: "Participated in the research of Big Data Visualization and published 3 papers.",
