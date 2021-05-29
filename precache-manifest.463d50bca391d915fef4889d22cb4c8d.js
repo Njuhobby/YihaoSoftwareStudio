@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "43d7ca22ef89f73ae3ba6b4fc925f969",
+    "revision": "37b29a0ccca9948b17704d487a6e4ec7",
     "url": "/YihaoSoftwareStudio/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/YihaoSoftwareStudio/static/css/3.d29f9f24.chunk.css"
   },
   {
-    "revision": "165778824eddbb178f22",
+    "revision": "faeee4153bd1dce82dd0",
     "url": "/YihaoSoftwareStudio/static/css/main.25b99863.chunk.css"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/YihaoSoftwareStudio/static/js/3.264c62fc.chunk.js"
   },
   {
-    "revision": "165778824eddbb178f22",
-    "url": "/YihaoSoftwareStudio/static/js/main.34f51b53.chunk.js"
+    "revision": "faeee4153bd1dce82dd0",
+    "url": "/YihaoSoftwareStudio/static/js/main.4638e583.chunk.js"
   },
   {
     "revision": "92eb1ac67288eef325d9",
@@ -48,8 +48,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/YihaoSoftwareStudio/static/media/airbnbLogo.9e671f66.webp"
   },
   {
-    "revision": "fb9d47feb177c9c802745b242f442b86",
-    "url": "/YihaoSoftwareStudio/static/media/brownLogo.fb9d47fe.webp"
+    "revision": "8e5eb64add77fc45c72495bc56cce9d1",
+    "url": "/YihaoSoftwareStudio/static/media/brownuniversityLogo.8e5eb64a.webp"
   },
   {
     "revision": "47a7a717679b640ceb1b05d38c480a61",
