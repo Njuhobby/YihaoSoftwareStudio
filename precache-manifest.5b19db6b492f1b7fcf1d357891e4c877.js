@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e1dca58942bb8bfd338c798fda0c0ca1",
+    "revision": "43d7ca22ef89f73ae3ba6b4fc925f969",
     "url": "/YihaoSoftwareStudio/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/YihaoSoftwareStudio/static/css/3.d29f9f24.chunk.css"
   },
   {
-    "revision": "d5a74e828e1d65a8168f",
+    "revision": "165778824eddbb178f22",
     "url": "/YihaoSoftwareStudio/static/css/main.25b99863.chunk.css"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/YihaoSoftwareStudio/static/js/3.264c62fc.chunk.js"
   },
   {
-    "revision": "d5a74e828e1d65a8168f",
-    "url": "/YihaoSoftwareStudio/static/js/main.a3c8b6c9.chunk.js"
+    "revision": "165778824eddbb178f22",
+    "url": "/YihaoSoftwareStudio/static/js/main.34f51b53.chunk.js"
   },
   {
     "revision": "92eb1ac67288eef325d9",
@@ -44,8 +44,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/YihaoSoftwareStudio/static/media/Montserrat-Regular.847627bf.ttf"
   },
   {
-    "revision": "0448a0cec05a1baa7a5a1fd3c9199678",
-    "url": "/YihaoSoftwareStudio/static/media/brownLogo.0448a0ce.png"
+    "revision": "9e671f66c76c7022815edec6f994ab6a",
+    "url": "/YihaoSoftwareStudio/static/media/airbnbLogo.9e671f66.webp"
+  },
+  {
+    "revision": "fb9d47feb177c9c802745b242f442b86",
+    "url": "/YihaoSoftwareStudio/static/media/brownLogo.fb9d47fe.webp"
   },
   {
     "revision": "47a7a717679b640ceb1b05d38c480a61",
@@ -60,6 +64,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/YihaoSoftwareStudio/static/media/developerActivity.59389695.svg"
   },
   {
+    "revision": "77ed798442bb1651dbf1d196c102c539",
+    "url": "/YihaoSoftwareStudio/static/media/facebookLogo.77ed7984.webp"
+  },
+  {
     "revision": "e79c639294c805688be731921368c8f8",
     "url": "/YihaoSoftwareStudio/static/media/googleAssistantLogo.e79c6392.webp"
   },
@@ -72,8 +80,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/YihaoSoftwareStudio/static/media/nextuLogo.829ad0a1.webp"
   },
   {
+    "revision": "58065dd10fef9198f5e0d8082f153337",
+    "url": "/YihaoSoftwareStudio/static/media/njuLogo.58065dd1.webp"
+  },
+  {
     "revision": "ee62cb58630f29a6e6201b49d4c03728",
     "url": "/YihaoSoftwareStudio/static/media/pwaLogo.ee62cb58.webp"
+  },
+  {
+    "revision": "15da2eaf20744569e97419a9d20c80f0",
+    "url": "/YihaoSoftwareStudio/static/media/quoraLogo.15da2eaf.webp"
   },
   {
     "revision": "25018d29d5ab115bc51c3e9a2d92f90f",

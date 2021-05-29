@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/YihaoSoftwareStudio/static/css/main.25b99863.chunk.css",
-    "main.js": "/YihaoSoftwareStudio/static/js/main.a3c8b6c9.chunk.js",
-    "main.js.map": "/YihaoSoftwareStudio/static/js/main.a3c8b6c9.chunk.js.map",
+    "main.js": "/YihaoSoftwareStudio/static/js/main.34f51b53.chunk.js",
+    "main.js.map": "/YihaoSoftwareStudio/static/js/main.34f51b53.chunk.js.map",
     "runtime-main.js": "/YihaoSoftwareStudio/static/js/runtime-main.0abccdf0.js",
     "runtime-main.js.map": "/YihaoSoftwareStudio/static/js/runtime-main.0abccdf0.js.map",
     "static/css/2.f1b50ea8.chunk.css": "/YihaoSoftwareStudio/static/css/2.f1b50ea8.chunk.css",
@@ -12,21 +12,25 @@
     "static/js/3.264c62fc.chunk.js": "/YihaoSoftwareStudio/static/js/3.264c62fc.chunk.js",
     "static/js/3.264c62fc.chunk.js.map": "/YihaoSoftwareStudio/static/js/3.264c62fc.chunk.js.map",
     "index.html": "/YihaoSoftwareStudio/index.html",
-    "precache-manifest.67a6fb2d0fddd152825e3e5c50a05cfc.js": "/YihaoSoftwareStudio/precache-manifest.67a6fb2d0fddd152825e3e5c50a05cfc.js",
+    "precache-manifest.5b19db6b492f1b7fcf1d357891e4c877.js": "/YihaoSoftwareStudio/precache-manifest.5b19db6b492f1b7fcf1d357891e4c877.js",
     "service-worker.js": "/YihaoSoftwareStudio/service-worker.js",
     "static/css/2.f1b50ea8.chunk.css.map": "/YihaoSoftwareStudio/static/css/2.f1b50ea8.chunk.css.map",
     "static/css/3.d29f9f24.chunk.css.map": "/YihaoSoftwareStudio/static/css/3.d29f9f24.chunk.css.map",
     "static/css/main.25b99863.chunk.css.map": "/YihaoSoftwareStudio/static/css/main.25b99863.chunk.css.map",
     "static/js/2.5060a0d6.chunk.js.LICENSE.txt": "/YihaoSoftwareStudio/static/js/2.5060a0d6.chunk.js.LICENSE.txt",
     "static/media/index.css": "/YihaoSoftwareStudio/static/media/Montserrat-Regular.847627bf.ttf",
-    "static/media/brownLogo.png": "/YihaoSoftwareStudio/static/media/brownLogo.0448a0ce.png",
+    "static/media/airbnbLogo.webp": "/YihaoSoftwareStudio/static/media/airbnbLogo.9e671f66.webp",
+    "static/media/brownLogo.webp": "/YihaoSoftwareStudio/static/media/brownLogo.fb9d47fe.webp",
     "static/media/codeInLogo.webp": "/YihaoSoftwareStudio/static/media/codeInLogo.47a7a717.webp",
     "static/media/contactMailDark.svg": "/YihaoSoftwareStudio/static/media/contactMailDark.51cf7192.svg",
     "static/media/developerActivity.svg": "/YihaoSoftwareStudio/static/media/developerActivity.59389695.svg",
+    "static/media/facebookLogo.webp": "/YihaoSoftwareStudio/static/media/facebookLogo.77ed7984.webp",
     "static/media/googleAssistantLogo.webp": "/YihaoSoftwareStudio/static/media/googleAssistantLogo.e79c6392.webp",
     "static/media/manOnTable.svg": "/YihaoSoftwareStudio/static/media/manOnTable.52be3144.svg",
     "static/media/nextuLogo.webp": "/YihaoSoftwareStudio/static/media/nextuLogo.829ad0a1.webp",
+    "static/media/njuLogo.webp": "/YihaoSoftwareStudio/static/media/njuLogo.58065dd1.webp",
     "static/media/pwaLogo.webp": "/YihaoSoftwareStudio/static/media/pwaLogo.ee62cb58.webp",
+    "static/media/quoraLogo.webp": "/YihaoSoftwareStudio/static/media/quoraLogo.15da2eaf.webp",
     "static/media/saayaHealthLogo.webp": "/YihaoSoftwareStudio/static/media/saayaHealthLogo.25018d29.webp",
     "static/media/skill.svg": "/YihaoSoftwareStudio/static/media/skill.34409398.svg",
     "static/media/TalkCard.scss": "/YihaoSoftwareStudio/static/media/talksCardBack.13780cdd.svg"
@@ -36,6 +40,6 @@
     "static/css/2.f1b50ea8.chunk.css",
     "static/js/2.5060a0d6.chunk.js",
     "static/css/main.25b99863.chunk.css",
-    "static/js/main.a3c8b6c9.chunk.js"
+    "static/js/main.34f51b53.chunk.js"
   ]
 }
