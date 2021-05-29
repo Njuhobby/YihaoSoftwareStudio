@@ -117,7 +117,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "Brown University",
-      logo: require("./assets/images/brownLogo.png"),
+      logo: require("./assets/images/brownLogo.webp"),
       subHeader: "Master of Science in Computer Science",
       duration: "September 2013 - April 2015",
       desc: "Participated in the research of Big Data Visualization and published 3 papers.",
@@ -128,7 +128,7 @@ const educationInfo = {
     },
     {
       schoolName: "Nanjing University",
-      logo: require("./assets/images/njuLogo.png"),
+      logo: require("./assets/images/njuLogo.webp"),
       subHeader: "Bachelor of Science in Computer Science",
       duration: "September 2008 - April 2012",
       desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
@@ -166,7 +166,7 @@ const workExperiences = {
     {
       role: "Software Engineer",
       company: "Facebook",
-      companylogo: require("./assets/images/facebookLogo.png"),
+      companylogo: require("./assets/images/facebookLogo.webp"),
       date: "June 2016 – 2019",
       desc: "",
       descBullets: [
@@ -177,14 +177,14 @@ const workExperiences = {
     {
       role: "Front-End Developer",
       company: "Quora",
-      companylogo: require("./assets/images/quoraLogo.png"),
+      companylogo: require("./assets/images/quoraLogo.webp"),
       date: "May 2015 – May 2016",
       desc: "Be responsible of developing and maintaining the company's core platform, providing support for millions of Quora users"
     },
     {
       role: "Software Engineer Intern",
       company: "Airbnb",
-      companylogo: require("./assets/images/airbnbLogo.png"),
+      companylogo: require("./assets/images/airbnbLogo.webp"),
       date: "Jan 2012 – Sep 2013",
       desc: "First job after graduation, got promoted very quickly after months because of excellent performance. Left to pursue master degree overseas."
     }
